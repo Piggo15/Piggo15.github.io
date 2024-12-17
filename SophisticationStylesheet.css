@@ -1,0 +1,43 @@
+footer {
+	position: fixed; 
+	left: 0;  
+	bottom: 0;
+	width: 100%;
+	background-color: #0A014F;
+	color: white;
+	text-align: center;
+}
+
+body{
+	background-color: #EADEDA;
+}
+
+.Title {
+	text-align: center;
+	color: #F05D23;
+	background-color: #69585F;
+	border-style : dashed;
+	border-color: #0A014F;
+	border-width: 7px;
+}
+
+.Content {
+	text-align: left;
+	background-color: #69585F;
+	color: white;
+	border-style : dashed;
+	border-width: 7px;
+	border-color: #0A014F;
+	margin-top: 10px;
+}
+
+h2{
+	border-style: solid hidden solid hidden;
+	border-color: #F05D23;
+}
+
+.examples{
+	border-style: solid hidden solid hidden;
+	border-color: #F05D23;
+
+}
